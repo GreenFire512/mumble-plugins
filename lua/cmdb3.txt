@@ -1,0 +1,3 @@
+!nm;!nextmap
+!snmp;!setnextmap
+!t;!time
